@@ -6,6 +6,11 @@ The system ingests real-estate articles and market reports, cleans and chunks th
 
 > The project was built not only as an application, but also as a hands-on exploration of how modern RAG systems work internally — from chunking and embeddings to reranking, source balancing, grounding, and evaluation.
 
+
+## 🌐 Live Demo
+
+[🚀 Launch Real Estate RAG Assistant](https://real-estate-rag-assistant-p.streamlit.app/)
+
 ---
 
 ## 🚀 What This Project Does
